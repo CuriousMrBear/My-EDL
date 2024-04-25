@@ -15,7 +15,7 @@
 ;
 ;*****INCIDNET RESPONSE SECTION (GROUPS OF IP'S WITH COMMON COMMENT)*****
 ;
-;Carried over from individually configured IP's on the same rule as this EDL
+;This section was carried over from individually configured IP's on the same rule as this EDL
  ;BEGIN
  5.151.173.133/32
  45.134.26.45/32
