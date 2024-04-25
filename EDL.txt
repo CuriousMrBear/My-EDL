@@ -8,6 +8,27 @@
 192.33.4.12
 198.97.190.53
 192.58.128.30
+192.5.5.241         ;Suspicious IP 24-04-24
+193.0.14.129        ;Suspicious IP 24-04-24
+192.112.36.4        ;Suspicious IP 24-04-24
+199.7.91.13         ;Suspicious IP 24-04-24
+192.33.4.12         ;Suspicious IP 24-04-24
+198.97.190.53       ;Suspicious IP 24-04-24
+192.58.128.30       ;Suspicious IP 24-04-24
+199.7.83.42         ;Suspicious IP 24-04-24
+202.12.27.33        ;Suspicious IP 24-04-24
+192.203.230.10      ;Suspicious IP 24-04-24
+198.41.0.4          ;Suspicious IP 24-04-24
+52.155.221.13       ;Suspicious IP 24-04-24
+162.159.140.26      ;Suspicious IP 24-04-24
+172.66.0.26         ;Suspicious IP 24-04-24
+146.75.74.132       ;Suspicious IP 24-04-24
+194.0.252.34        ;Suspicious IP 24-04-24
+34.49.189.66        ;Suspicious IP 24-04-24
+34.120.127.130      ;Suspicious IP 24-04-24
+162.159.130.83      ;Suspicious IP 24-04-24
+92.63.142.155       ;Suspicious IP 24-04-24
+162.159.129.83      ;Suspicious IP 24-04-24
 ;
 ;END
 ;
@@ -1758,7 +1779,6 @@
 207.246.68.214
 68.183.175.48
 88.119.169.230
-192.5.5.241
 ;END
 ;
 ;
