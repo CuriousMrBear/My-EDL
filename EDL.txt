@@ -2,12 +2,12 @@
 ;
 ;BEGIN
 ;
-193.0.14.129 ; malicious host
-192.112.36.4 ; malware phone home
-199.7.91.13
-192.33.4.12
-198.97.190.53
-192.58.128.30
+193.0.14.129        ; malicious host
+192.112.36.4        ; malware phone home
+199.7.91.13         ;Suspicious IP 24-04-24
+192.33.4.12         ;Suspicious IP 24-04-24
+198.97.190.53       ;Suspicious IP 24-04-24
+192.58.128.30       ;Suspicious IP 24-04-24
 192.5.5.241         ;Suspicious IP 24-04-24
 193.0.14.129        ;Suspicious IP 24-04-24
 192.112.36.4        ;Suspicious IP 24-04-24
