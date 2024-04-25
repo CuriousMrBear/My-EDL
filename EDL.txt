@@ -22,7 +22,6 @@
 52.155.221.13       ;Suspicious IP 24-04-24
 162.159.140.26      ;Suspicious IP 24-04-24
 172.66.0.26         ;Suspicious IP 24-04-24
-146.75.74.132       ;Suspicious IP 24-04-24
 194.0.252.34        ;Suspicious IP 24-04-24
 34.49.189.66        ;Suspicious IP 24-04-24
 34.120.127.130      ;Suspicious IP 24-04-24
