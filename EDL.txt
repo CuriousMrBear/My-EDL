@@ -44,6 +44,8 @@
  194.5.83.0/24
  216.144.248.19/32
 ;END
+;
+;
 ;This section refers to all IP ranges associated with ASN "stark-industries.solutions" a known bad host with 1553 IP ranges
 ;BEGIN
 45.86.60.0/22
@@ -1600,7 +1602,8 @@
 185.235.242.0/24
 2a14:2d82::/32
 ;END
-
+;
+;
 ;This section was inserted as a result of extensive DNS lookups against apextdns1 on 3-4-24
 ;BEGIN
 88.198.139.6	;Hetzner Online
@@ -1734,11 +1737,15 @@
 197.155.92.20	;Liquid Telecommunications Operations Limited	liquidtelecom.com
 80.179.183.9	;Partner Communications Ltd.	partner.co.il
 ;END
+;
+;
 ;This section was inserted as a result of PA-220 intrusion on 16-4-24
 ;BEGIN
 118.193.39.47
 159.65.33.252
 ;END
+;
+;
 ;This section was added following CVE-2023-3400
 ;BEGIN
 151.236.29.58
@@ -1753,3 +1760,5 @@
 88.119.169.230
 192.5.5.241
 ;END
+;
+;
