@@ -1,6 +1,6 @@
 ;*****INDIVIDUAL IP SECTION (AD-HOC WITH BASIC COMMENT ON WHO ACCESS IS FOR AN WHY)******
 ;EDL for ICMP access to vpn.surrey.ac.uk
 84.90.92.144/32 ; Canhestro De Assuncao Ribeiro, Sonia (IT Services) INTEGRATION TEAM
-49.37.117.216/32 ; Mishra, Abhijit (IT Services) INTEGRATION TEAM
+49.37.117.171/32 ; Mishra, Abhijit (IT Services) INTEGRATION TEAM
 103.186.41.105/32 ; Nandyala, Deepthi (IT Services) INTEGRATION TEAM
 ;*****SECTION END************************************************************************
