@@ -5,6 +5,7 @@
 193.0.14.129        ; malicious host
 192.112.36.4        ; malware phone home
 185.183.33.13
+45.148.10.248       ; OSE-0994339 - known malicius talking to DNS
 ;
 ;END
 ;
