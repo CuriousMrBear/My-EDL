@@ -6,4 +6,5 @@
 ;
 ;*****INDIVIDUAL IP SECTION FOR NON-IT STAFF ACCESS******
 89.134.11.201/32 ;NON-IT STAFF INITIAL ET
+84.120.12.238/32 ;NON-IT STAFF INITIAL IR
 ;*****SECTION END************************************************************************
